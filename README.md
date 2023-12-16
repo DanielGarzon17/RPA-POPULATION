@@ -1,5 +1,6 @@
-Population Data Export
-Considerations for this exercise:
+# Population Data Export
+
+## Considerations for this exercise:
 
 - Use Selenium and Firefox
 - Follow the steps exactly as the statement says
@@ -8,7 +9,10 @@ Considerations for this exercise:
 - Use relative XPATH to find elements
 - Use Try-Except-Raise
 - Do not import libraries that are not used within the code or define variables that are not used
-Step by Step
+
+## Step by Step
+
+
 1. Go to the URL https://world-statistics.org/
 2. Click on Indicators
 3. Click on population
